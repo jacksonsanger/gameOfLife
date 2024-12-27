@@ -7,11 +7,6 @@ bin/
 #macOS system files
 .DS_Store
 
-# Eclipse project files
-.classpath
-.project
-.settings/
-
 # Log file
 *.log
 
